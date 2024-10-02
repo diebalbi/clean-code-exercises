@@ -1,6 +1,6 @@
 ﻿namespace Solutions
 {
-    public class NamesLevel
+    public class NameLevel
     {
         // Improvement: The variable counter is now more meaningful compared to the previous name.
         public void Exercise1()

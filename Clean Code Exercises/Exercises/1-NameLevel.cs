@@ -1,6 +1,6 @@
 ﻿namespace Exercises
 {
-    public class NamesLevel
+    public class NameLevel
     {
 
         // The following code prints numbers from 0 to 9. Some variable names are not clear and can be improved.
