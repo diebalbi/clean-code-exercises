@@ -1,7 +1,7 @@
 ﻿namespace Exercises.Integrative_Exercise
 {
-    // The Count method processes a list of numbers to sum only those that end in an odd digit and then calculates the average.
-    // However, the code has multiple Clean Code violations, including unclear naming, poor error handling, and an overly complex structure.
+    // The CustomerManager class mixes several responsibilities, such as processing payments, updating customer information,
+    // and sending confirmations, violating the Single Responsibility Principle.
 
     public class Exercise2
     {
