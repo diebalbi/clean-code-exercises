@@ -74,6 +74,7 @@ namespace Solutions
         
         private bool IsValidEmail(string email)
         {
+            // Regex pattern to match a valid email address
             string emailPattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
             return System.Text.RegularExpressions.Regex.IsMatch(email, emailPattern);
         }
