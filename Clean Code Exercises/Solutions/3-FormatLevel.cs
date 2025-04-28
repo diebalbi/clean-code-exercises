@@ -42,9 +42,7 @@
 
         private void PrintResult(int value)
         {
-            bool isPositive = IsPositive(value);
-
-            if (isPositive)
+            if (IsPositive(value))
             {
                 Console.WriteLine("The number is positive.");
             }
